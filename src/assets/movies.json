@@ -1,0 +1,154 @@
+[
+  {
+    "avg_rating": 4.429022082018927,
+    "genres": ["Drama", "Crime"],
+    "id": 278,
+    "num_rating": 317,
+    "poster": "https://image.tmdb.org/t/p/w500//q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "title": "The Shawshank Redemption"
+  },
+  {
+    "avg_rating": 4.272935779816514,
+    "genres": ["Drama"],
+    "id": 550,
+    "num_rating": 218,
+    "poster": "https://image.tmdb.org/t/p/w500//pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "title": "Fight Club"
+  },
+  {
+    "avg_rating": 4.237745098039215,
+    "genres": ["Drama", "Crime", "Thriller"],
+    "id": 629,
+    "num_rating": 204,
+    "poster": "https://image.tmdb.org/t/p/w500//99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+    "title": "The Usual Suspects"
+  },
+  {
+    "avg_rating": 4.231075697211155,
+    "genres": ["Adventure", "Action", "Science Fiction"],
+    "id": 11,
+    "num_rating": 251,
+    "poster": "https://image.tmdb.org/t/p/w500//6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "title": "Star Wars"
+  },
+  {
+    "avg_rating": 4.225,
+    "genres": ["Drama", "History", "War"],
+    "id": 424,
+    "num_rating": 220,
+    "poster": "https://image.tmdb.org/t/p/w500//sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "title": "Schindler's List"
+  },
+  {
+    "avg_rating": 4.2156398104265405,
+    "genres": ["Adventure", "Action", "Science Fiction"],
+    "id": 1891,
+    "num_rating": 211,
+    "poster": "https://image.tmdb.org/t/p/w500//nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "title": "The Empire Strikes Back"
+  },
+  {
+    "avg_rating": 4.2075,
+    "genres": ["Adventure", "Action"],
+    "id": 85,
+    "num_rating": 200,
+    "poster": "https://image.tmdb.org/t/p/w500//ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+    "title": "Raiders of the Lost Ark"
+  },
+  {
+    "avg_rating": 4.197068403908795,
+    "genres": ["Thriller", "Crime"],
+    "id": 680,
+    "num_rating": 307,
+    "poster": "https://image.tmdb.org/t/p/w500//d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "title": "Pulp Fiction"
+  },
+  {
+    "avg_rating": 4.192446043165468,
+    "genres": ["Action", "Science Fiction"],
+    "id": 603,
+    "num_rating": 278,
+    "poster": "https://image.tmdb.org/t/p/w500//f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "title": "The Matrix"
+  },
+  {
+    "avg_rating": 4.164133738601824,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "id": 13,
+    "num_rating": 329,
+    "poster": "https://image.tmdb.org/t/p/w500//arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "title": "Forrest Gump"
+  },
+  {
+    "avg_rating": 4.161290322580645,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "id": 274,
+    "num_rating": 279,
+    "poster": "https://image.tmdb.org/t/p/w500//uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "title": "The Silence of the Lambs"
+  },
+  {
+    "avg_rating": 4.056372549019608,
+    "genres": ["Drama"],
+    "id": 14,
+    "num_rating": 204,
+    "poster": "https://image.tmdb.org/t/p/w500//wby9315QzVKdW9BonAefg8jGTTb.jpg",
+    "title": "American Beauty"
+  },
+  {
+    "avg_rating": 4.031645569620253,
+    "genres": ["Action", "Drama", "History", "War"],
+    "id": 197,
+    "num_rating": 237,
+    "poster": "https://image.tmdb.org/t/p/w500//or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "title": "Braveheart"
+  },
+  {
+    "avg_rating": 3.9753694581280787,
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "id": 807,
+    "num_rating": 203,
+    "poster": "https://image.tmdb.org/t/p/w500//6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "title": "Se7en"
+  },
+  {
+    "avg_rating": 3.970982142857143,
+    "genres": ["Action", "Thriller", "Science Fiction"],
+    "id": 280,
+    "num_rating": 224,
+    "poster": "https://image.tmdb.org/t/p/w500//5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+    "title": "Terminator 2: Judgment Day"
+  },
+  {
+    "avg_rating": 3.9209302325581397,
+    "genres": ["Animation", "Comedy", "Family"],
+    "id": 862,
+    "num_rating": 215,
+    "poster": "https://image.tmdb.org/t/p/w500//uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "title": "Toy Story"
+  },
+  {
+    "avg_rating": 3.845771144278607,
+    "genres": ["Drama"],
+    "id": 568,
+    "num_rating": 201,
+    "poster": "https://image.tmdb.org/t/p/w500//oYUZHYMwNKnE1ef4WE5Hw2a9OAY.jpg",
+    "title": "Apollo 13"
+  },
+  {
+    "avg_rating": 3.75,
+    "genres": ["Adventure", "Science Fiction"],
+    "id": 329,
+    "num_rating": 238,
+    "poster": "https://image.tmdb.org/t/p/w500//oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+    "title": "Jurassic Park"
+  },
+  {
+    "avg_rating": 3.4455445544554455,
+    "genres": ["Action", "Adventure", "Science Fiction"],
+    "id": 602,
+    "num_rating": 202,
+    "poster": "https://image.tmdb.org/t/p/w500//p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "title": "Independence Day"
+  }
+]
