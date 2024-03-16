@@ -16,6 +16,7 @@ import {
 } from "react-router-dom";
 import UserSetting from "./components/UserSetting.jsx";
 import LikedPage from "./components/LikedPage.jsx";
+import Stats from "./components/Stats.jsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -28,6 +29,7 @@ const router = createBrowserRouter(
       <Route path="signup" element={<SignUp />} />
       <Route path="profile" element={<UserSetting />} />
       <Route path="likedpage" element={<LikedPage />} />
+      <Route path="stats" element={<Stats />} />
     </Route>
   )
 );

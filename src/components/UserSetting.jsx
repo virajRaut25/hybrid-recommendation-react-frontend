@@ -147,6 +147,12 @@ export default function UserSetting() {
                   <option value="Other">Other</option>
                 </select>
               </div>
+              <button
+                className="btn mt-4 btn-outline-danger"
+                onClick={() => navigate("/stats")}
+              >
+                Your Daily Stats
+              </button>
               <button className="btn btn-danger mt-4" onClick={handleLogout}>
                 Log Out
               </button>
