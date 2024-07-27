@@ -56,7 +56,7 @@ export default function Stats() {
       <div className="">
         <div className="heading mx-5 mb-3 fs-3">Your Daily Stats</div>
         <div className="cardLayout d-flex flex-row align-items-center justify-content-center flex-wrap">
-          {Object.keys(stat[today]).length ? (
+          {stat[today] && Object.keys(stat[today]).length ? (
             <div className="dataCard todayCard">
               <Bar
                 data={{

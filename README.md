@@ -1,8 +1,9 @@
-# React + Vite
+# React + Vite \(Hybrid Recommendation System Frontend\)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a hybrid recommendation system frontend built with React,Vite & Bootstrap. It interacts with backend services to provide personalized recommendations.
 
-Currently, two official plugins are available:
+[![Watch the demo video](https://img.youtube.com/vi/lMVq7CljN8I/0.jpg)](https://www.youtube.com/watch?v=lMVq7CljN8I)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[GitHub Express Back-End Repo](https://github.com/virajRaut25/hybrid-recommendation-express-backend)
+
+[GitHub Flask Back-End Repo](https://github.com/virajRaut25/hybrid-recommendation-flask-backend)
